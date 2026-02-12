@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メリーゴーラウンド",
+  "base_artist": "加賀(ネギシャワーP)、初音ミク、KAITO",
+  "createdAt": "2026-02-12T11:25:09.632541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリーゴーラウンド",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/01_メリーゴーラウンド_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリーゴーラウンド (feat. 初音ミク&KAITO)",
+      "artist": "加賀(ネギシャワーP)",
+      "has_synced": false,
+      "path": "select/pl_01_メリーゴーラウンド_(feat._初音ミク&KAITO)_加賀(ネギシャワーP).txt"
+    }
+  ]
+}
